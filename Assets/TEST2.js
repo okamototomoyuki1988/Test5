@@ -14,6 +14,7 @@ namespace AssemblyCSharp
 		{
 				public TEST2 ()
 				{
+				int x = 0;
 				}
 		}
 }
