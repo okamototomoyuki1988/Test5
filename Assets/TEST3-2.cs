@@ -10,11 +10,10 @@
 using System;
 namespace AssemblyCSharp
 {
-		public class TEST2
+		public class TEST3_2
 		{
-				public TEST2 ()
+				public TEST3_2 ()
 				{
-					int x = 0;
 				}
 		}
 }
